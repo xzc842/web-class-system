@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>邮箱找回密码</title>
+        <meta charset="utf-8">
+    </head>
+    <body bgcolor="#1E90FF">
+        <script type="text/javascript" src="../../../js/geturl.js"></script>
+        <script type="text/javascript">
+            if(get("i")==1)
+            {
+                alert("找不到使用此邮箱的用户，请重试！");
+            }
+            if(get("i")==2)
+            {
+                alert("验证码错误！");
+            }
+            if(get("i")==3)
+            {
+                alert("验证码已过期，请重新获取！");
+            }
+            </script>
+        <div style="margin-top:0.5cm;margin-left:0.5cm;background-color:#FFD700;height:50px;width:1300px;">
+            <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安全中心</h1>
+        </div>
+        <div style="margin-top:0.5cm;margin-left:1.5cm;height:600px;width:1000px;background-color:#DAA520">
+            <form action="email.php" method="post">
+                <input type="text" name="email">
+                <input type="submit" value="Submit">获取验证码</button>
+            </from>
+        </div>
+        
+    </body>
+</html>
