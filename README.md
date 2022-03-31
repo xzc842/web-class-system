@@ -23,4 +23,5 @@ This is a Campus network course system
 
 三、运行环境
 1：PHP+Mysql
-2:代码10MB空间，数据库1GB，视频储存空间20GB
+<br>2:代码10MB空间，数据库1GB，视频储存空间20GB
+
