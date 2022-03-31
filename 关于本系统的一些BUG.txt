@@ -1,0 +1,6 @@
+1.登录
+    位置：htdocs/index.html
+    描述：进入页面时即使Cookie的username和password为空也会自动登录但又会返回i=1（用户名或密码错误）教师登录不会出现这种情况。
+2：更改密码
+    位置：htdocs/upuser/anquancenter/resetpass/resetpass.php
+    描述：与email.php的连接出错导致验证码传输不正常，更改Mysql数据时返回1（成功）但数据库内容没有改变。
