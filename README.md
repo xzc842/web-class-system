@@ -1,5 +1,5 @@
 # web-class-system
-This is a Campus network course system
+
 
 这是一个校园网课系统，可以更全面的管理网课。
 
