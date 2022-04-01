@@ -25,3 +25,13 @@
 1：PHP+Mysql
 <br>2:代码10MB空间，数据库1GB，视频储存空间20GB
 
+This is a campus online course system, which can manage online courses more comprehensively.
+1、 Account classification
+The account is divided into five levels: Administrator (only one), developer (only three), teacher user, student user and parent user
+1. Administrator: has the highest authority of the system, can view the statistical log, add / delete users, plug-ins and announcements, agree / reject sensitive permission requests, add / revoke user permission flags, and advanced system operations.
+2. Developer: call system resources, add / delete plug-ins, and view system logs.
+3. Teacher users: conduct online teaching, assign homework and create activities.
+4. Student users: enter the classroom and the discussion area.
+5. Parent user: enter the classroom and check the student status.
+
+2、 Function 1 Classroom: transmit video, play PPT, set forbidden speech, speech interval and sign in procedure in the discussion area.2. Operating system: it can be scored by teachers, group leaders and parents.3. SMS in the station: publish announcements, send messages between users, receive authentication information, and extend API.4. Discussion area: any user in the same user group can send messages.5. Security center: retrieve password, bind email, bind students and parents, and give early warning of hacker attack.6. Management Center: administrators and developers can enter, manage the system, adjust settings, manage the database, add and delete plug-ins.3、 Running environment 1: PHP + MySQL2: Code 10MB, database 1GB, video storage 20GB
