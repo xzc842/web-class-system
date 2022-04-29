@@ -11,7 +11,7 @@
 <br>2.开发者：调用系统资源，添加/删除插件，查看系统日志。
 <br>3.教师用户：进行网络进行网络授课，布置作业，创建活动。
 <br>4.学生用户：进入课堂，进入讨论区。
-<br>5.家长用户:进入课堂，查看学生状态。
+<br>5.家长用户:进入课堂，查看学生状态。（暂未开启）
 
 二、功能
 1.课堂：传输视频，播放PPT，讨论区可设置禁言、发言间隔时间，签到程序。
@@ -25,6 +25,9 @@
 1：PHP+Mysql
 <br>2:代码10MB空间，数据库1GB，视频储存空间20GB
 
+四、升级与改进
+<br>1.管理员可以进入管理页面->插件进行其他功能开发
+<br>2.管理员页面暂未设置任何保护，请自行设置
 This is a campus online course system, which can manage online courses more comprehensively.
 1、 Account classification
 The account is divided into five levels: Administrator (only one), developer (only three), teacher user, student user and parent user
