@@ -35,24 +35,24 @@ A classification and account
 
 Account is divided into five levels: the administrator (only one), the developer (only three), users, students, teachers, parents, users
 
-: 1. The administrator has the highest authority system, can view the log, add/remove users, plug-ins, announcement, agree/refused to sensitive authorization request, add/cancel user permissions logo, and advanced operating system.
-< br > 2. Developers: call the system resources, add/remove plug-ins, view the system log.
-User: < br > 3. Teachers to carry on the network for network teaching, homework, create activities.
-User: < br > 4. Students entered the classroom, into the discussion area.
-User: < br > 5. Parents entered the classroom, view your student status. Open (no)
+<br>1. The administrator has the highest authority system, can view the log, add/remove users, plug-ins, announcement, agree/refused to sensitive authorization request, add/cancel user permissions logo, and advanced operating system.
+<br> 2. Developers: call the system resources, add/remove plug-ins, view the system log.
+<br>3. Teachers to carry on the network for network teaching, homework, create activities.
+<br>4. Students entered the classroom, into the discussion area.
+<br>5. Parents entered the classroom, view your student status. Open (no)
 
 Second, the function of
-1. Class: video transmission, play the PPT, banned discussion can be set up, a time interval, check-in procedures.
-< br > 2. An operating system, can be graded by the teacher, leader, parents. Open (no)
-< br > 3. Station message: announced that send messages between users, receive authentication information, expand the API.
-< br > 4. Discussion: any user can send messages of the same user group.
-< br > 5. Security center: retrieve password, binding the mailbox, binding students, parents, hacker attack warning.
-< br > 6. Management center: administrators and developers can enter, management system, adjust the Settings and management database, add or remove a plug-in.
+<br>1. Class: video transmission, play the PPT, banned discussion can be set up, a time interval, check-in procedures.
+<br>2. An operating system, can be graded by the teacher, leader, parents. Open (no)
+<br>3. Station message: announced that send messages between users, receive authentication information, expand the API.
+<br>4. Discussion: any user can send messages of the same user group.
+<br>5. Security center: retrieve password, binding the mailbox, binding students, parents, hacker attack warning.
+<br>6. Management center: administrators and developers can enter, management system, adjust the Settings and management database, add or remove a plug-in.
 
 Three, operation environment
-1: PHP + Mysql
-< br > 2:10 MB of space code, database 1 gb, video 20 gb of storage space
+<br>1: PHP + Mysql
+<br>2:10 MB of space code, database 1 gb, video 20 gb of storage space
 
 Fourth, upgrade and improvement
-< br > 1. The administrator can enter the administration page - > plugins to develop other functions
-< br > 2. The administrator page temporarily not set any protection, please make your own Settings
+<br>1. The administrator can enter the administration page - > plugins to develop other functions
+<br>2. The administrator page temporarily not set any protection, please make your own Settings
