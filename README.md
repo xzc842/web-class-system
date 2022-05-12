@@ -15,7 +15,7 @@
 
 二、功能
 1.课堂：传输视频，播放PPT，讨论区可设置禁言、发言间隔时间，签到程序。
-<br>2.作业系统：可由老师、小组长、家长评分。
+<br>2.作业系统：可由老师、小组长、家长评分。（暂未开启）
 <br>3.站内短信：发布公告，用户之间发送消息，接收验证信息，扩展API。
 <br>4.讨论区：任何同一用户组的用户可以发送消息。
 <br>5.安全中心：找回密码，绑定邮箱，绑定学生、家长，黑客攻击预警。
@@ -28,13 +28,31 @@
 四、升级与改进
 <br>1.管理员可以进入管理页面->插件进行其他功能开发
 <br>2.管理员页面暂未设置任何保护，请自行设置
-This is a campus online course system, which can manage online courses more comprehensively.
-1、 Account classification
-The account is divided into five levels: Administrator (only one), developer (only three), teacher user, student user and parent user
-1. Administrator: has the highest authority of the system, can view the statistical log, add / delete users, plug-ins and announcements, agree / reject sensitive permission requests, add / revoke user permission flags, and advanced system operations.
-2. Developer: call system resources, add / delete plug-ins, and view system logs.
-3. Teacher users: conduct online teaching, assign homework and create activities.
-4. Student users: enter the classroom and the discussion area.
-5. Parent user: enter the classroom and check the student status.
+<br>
+This lesson is a campus network system, can be more comprehensive management network.
 
-2、 Function 1 Classroom: transmit video, play PPT, set forbidden speech, speech interval and sign in procedure in the discussion area.2. Operating system: it can be scored by teachers, group leaders and parents.3. SMS in the station: publish announcements, send messages between users, receive authentication information, and extend API.4. Discussion area: any user in the same user group can send messages.5. Security center: retrieve password, bind email, bind students and parents, and give early warning of hacker attack.6. Management Center: administrators and developers can enter, manage the system, adjust settings, manage the database, add and delete plug-ins.3、 Running environment 1: PHP + MySQL2: Code 10MB, database 1GB, video storage 20GB
+A classification and account
+
+Account is divided into five levels: the administrator (only one), the developer (only three), users, students, teachers, parents, users
+
+: 1. The administrator has the highest authority system, can view the log, add/remove users, plug-ins, announcement, agree/refused to sensitive authorization request, add/cancel user permissions logo, and advanced operating system.
+< br > 2. Developers: call the system resources, add/remove plug-ins, view the system log.
+User: < br > 3. Teachers to carry on the network for network teaching, homework, create activities.
+User: < br > 4. Students entered the classroom, into the discussion area.
+User: < br > 5. Parents entered the classroom, view your student status. Open (no)
+
+Second, the function of
+1. Class: video transmission, play the PPT, banned discussion can be set up, a time interval, check-in procedures.
+< br > 2. An operating system, can be graded by the teacher, leader, parents. Open (no)
+< br > 3. Station message: announced that send messages between users, receive authentication information, expand the API.
+< br > 4. Discussion: any user can send messages of the same user group.
+< br > 5. Security center: retrieve password, binding the mailbox, binding students, parents, hacker attack warning.
+< br > 6. Management center: administrators and developers can enter, management system, adjust the Settings and management database, add or remove a plug-in.
+
+Three, operation environment
+1: PHP + Mysql
+< br > 2:10 MB of space code, database 1 gb, video 20 gb of storage space
+
+Fourth, upgrade and improvement
+< br > 1. The administrator can enter the administration page - > plugins to develop other functions
+< br > 2. The administrator page temporarily not set any protection, please make your own Settings
